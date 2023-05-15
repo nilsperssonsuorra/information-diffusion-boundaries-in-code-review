@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/nilsperssonsuorra/information-diffusion-boundaries-in-code-review/branch/main/graph/badge.svg?token=Y6ASNUEBPZ)](https://codecov.io/gh/nilsperssonsuorra/information-diffusion-boundaries-in-code-review)
+
 # Upper Bound of Information Diffusion in Code Review: Replication package
 
 [![GitHub](https://img.shields.io/github/license/michaeldorner/information-diffusion-boundaries-in-code-review)](./LICENSE)
