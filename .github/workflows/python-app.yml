@@ -44,3 +44,8 @@ jobs:
         name: codecov-umbrella
         fail_ci_if_error: true
         verbose: true
+    - name: Run tests with coverage
+      run: |
+        pip install coverage
+        coverage run --source=my_package -m unittest discover -s tests
+        coverage xml
